@@ -1,0 +1,4 @@
+#Sat Jan 20 19:49:23 IST 2024
+base.0=C\:\\Users\\gs1-sohaila\\Desktop\\Hackathon_Project\\store_ui\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
